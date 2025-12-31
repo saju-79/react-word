@@ -18,6 +18,7 @@ const Blog = ({blog}) => {
       <button className="btn btn-primary">Buy Now</button>
     </div>
   </div>
+  
 </div>
     );
 };
