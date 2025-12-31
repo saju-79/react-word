@@ -1,0 +1,57 @@
+  [
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/LhgDmG0B/saju7.jpg",
+      "author": "Saju Sports",
+      "author_img": "https://i.ibb.co.com/q3qbxDrX/Bid4-min.png",
+      "title": "Lionel Messi – The GOAT",
+      "post_date": "2025-01-05",
+      "time": "10:30 AM",
+      "reading_time": "5 min",
+      "hosting": "Inter Miami"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/5hq9KZjj/IMG-5685-1-optimized-950.jpg",
+      "author": "Football World",
+      "author_img": "https://i.ibb.co.com/ntJCVTd/Bid5-min.png",
+      "title": "Cristiano Ronaldo – Goal Machine",
+      "post_date": "2025-01-07",
+      "time": "2:15 PM",
+      "reading_time": "6 min",
+      "hosting": "Al Nassr"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/cXFbYDk0/Bid3-min.png",
+      "author": "Sports Desk",
+      "author_img": "https://i.ibb.co.com/39TWkYch/Bid2-min.png",
+      "title": "Neymar Jr – Brazilian Magician",
+      "post_date": "2025-01-10",
+      "time": "6:40 PM",
+      "reading_time": "4 min",
+      "hosting": "PSG"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/GyMvrGk/Screenshot-2025-02-11-065439.png",
+      "author": "Goal News",
+      "author_img": "https://i.ibb.co.com/xqnn2r55/Bid6-min.png",
+      "title": "Kylian Mbappé – Speed King",
+      "post_date": "2025-01-12",
+      "time": "9:00 AM",
+      "reading_time": "3 min",
+      "hosting": "Real Madrid"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/7xkryYF3/IMG-20251130-113859273-2.jpg",
+      "author": "Premier Sports",
+      "author_img": "https://i.ibb.co.com/PzQgy5p8/Bid7-min.png",
+      "title": "Erling Haaland – Goal Beast",
+      "post_date": "2025-01-15",
+      "time": "8:20 PM",
+      "reading_time": "4 min",
+      "hosting": "Manchester City"
+    }
+  ]
